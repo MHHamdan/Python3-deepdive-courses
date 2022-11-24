@@ -1,0 +1,5 @@
+print('executing pack1 moduel 1 v ...')
+
+
+value = 'pack1 module 1 v'
+ 
